@@ -1,3 +1,4 @@
+#!/usr/local/bin/python
 """Blocklist Generator
 
 This script will take a blocklist.txt file and turn it into multiple different blocklist formats
